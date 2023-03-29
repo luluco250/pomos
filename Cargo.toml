@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "pomos"
+version = "0.1.0"
+
+[dependencies]
+cancellable-timer = "0.1.0"
+ctrlc = "3.2.5"
